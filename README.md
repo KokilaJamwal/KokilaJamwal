@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+I am python developer/IT Specialist in Tierärztliche Hochschule (TiHo). I love programming, travelling, cooking and writing.  
+I like to learn new technical things. Recently, I successfully completed AWS Solutions Architect – Associate exam.
 <!--
 **KokilaJamwal/KokilaJamwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
