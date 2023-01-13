@@ -9,3 +9,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning
 - 👯 I’m looking to collaborate on machine learning tasks
 - 📫 How to reach me: kokilajamwal@gmail.com
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
